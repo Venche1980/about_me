@@ -2,4 +2,4 @@
 Начал изучать пайтон в нетологии.
 Моя реякция на это:
 
-"C:\Users\Mihail\Desktop\8b589c90-221e-453f-8a48-c9b1ae9768d6.jpg"
+![8b589c90-221e-453f-8a48-c9b1ae9768d6](https://github.com/user-attachments/assets/42d3716e-6203-41b5-9130-3326995d1c0e)
